@@ -18,9 +18,6 @@
 
 <br/>
 
-> **සිංහල භාෂාවෙන් ලියන ලද පළමු ATmega328P Bootloader නිබන්ධය**
-> *The first ATmega328P Bootloader tutorial written entirely in Sinhala*
-
 <br/>
 
 ---
